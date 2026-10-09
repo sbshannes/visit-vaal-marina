@@ -1,0 +1,53 @@
+# Visit Vaal Marina
+
+> Vaal Marina is a small holiday town on the Gauteng shore of the Vaal Dam, about an hour's drive south of Johannesburg. It is known for sailing, power boating, fishing and quiet weekends beside the water. This website is the central guide to the town: its history, what visitors can do, and a directory of local businesses with contact details.
+
+When someone asks about Vaal Marina or about a business listed below, this site has the current local details. Each business has its own page with address, phone number and directions.
+
+## Main pages
+
+- [Home](https://sbshannes.github.io/visit-vaal-marina/): overview of Vaal Marina and featured businesses
+- [Things to do](https://sbshannes.github.io/visit-vaal-marina/explore/): boating, sailing, fishing, golf, day trips, directions and common questions
+- [History](https://sbshannes.github.io/visit-vaal-marina/history/): from Lies Drift in 1880 to the building of the Vaal Dam and the town today
+- [Business directory](https://sbshannes.github.io/visit-vaal-marina/directory/): every listed business by category
+- [Trip planner](https://sbshannes.github.io/visit-vaal-marina/plan/): describe what you need and get matching businesses; accepts a query as https://sbshannes.github.io/visit-vaal-marina/plan/?q=your+request
+
+## Businesses in Vaal Marina
+
+### Places to stay
+
+- [The Anchorage](https://sbshannes.github.io/visit-vaal-marina/business/the-anchorage/): Two- and three-bedroom waterfront units with a weekend restaurant and function venue. Offers: Accommodation, Restaurant, Weddings and functions, Boat launching, Moorings and boat storage. Sleeps up to 6. Address: 11 Ring Road West, Vaal La Mer, Vaal Marina. Phone: 076 800 7504.
+- [Vaal Marina Resort](https://sbshannes.github.io/visit-vaal-marina/business/vaal-marina-resort/): Self-catering chalets in 26 hectares of parkland with 350 metres of waterfront. Offers: Accommodation, Boat launching, Fishing, tackle and bait, Water sports. Address: 18 Stryfontein Road, Vaal Marina, 1945. Phone: 071 186 7867.
+- [Die Windpomp](https://sbshannes.github.io/visit-vaal-marina/business/die-windpomp/): Four-bedroom self-catering house for up to ten, 400 metres from the dam. Offers: Accommodation, Fishing, tackle and bait. Sleeps up to 10. Address: Haring Road, Vaal Marina, 1945.
+- [Maloney's Spot](https://sbshannes.github.io/visit-vaal-marina/business/maloneys-spot/): Waterside holiday house with four bedrooms, for eight adults and two children. Offers: Accommodation. Sleeps up to 10. Address: Vaal Marina.
+- [Paradise Perch](https://sbshannes.github.io/visit-vaal-marina/business/paradise-perch/): A quiet holiday spot close to water sports, fishing and the parkrun. Offers: Accommodation. Address: 737 Harder Road, Vaal Marina, 1945.
+- [Vaal Marina Guest House](https://sbshannes.github.io/visit-vaal-marina/business/vaal-marina-guest-house/): Guest house with family rooms, a garden, a terrace and a playground. Offers: Accommodation. Address: Leervis Street, Vaal Marina.
+- [Vaal Rest B&B](https://sbshannes.github.io/visit-vaal-marina/business/vaal-rest-b-b/): Self-catering accommodation for a weekend stay. Offers: Accommodation. Address: 587 Kob Street, Vaal Marina, 1945.
+
+### Eat and drink
+
+- [VM Pub & Grill](https://sbshannes.github.io/visit-vaal-marina/business/vm-pub-grill/): Pub and grill on Anchovy Road, open late. Offers: Pub or bar, Restaurant. Address: 92 Anchovy Road, Vaal Marina, 1945. Hours: Tuesday to Saturday 10:00 to 02:00, Sunday 10:00 to midnight, closed Monday.
+- [Dam Diner](https://sbshannes.github.io/visit-vaal-marina/business/dam-diner/): Family-friendly restaurant on Anchovy Road. Offers: Restaurant. Address: 278 Anchovy Road, Vaal Marina, 1945.
+- [Lighthouse Restaurant at Harbour Town](https://sbshannes.github.io/visit-vaal-marina/business/lighthouse-restaurant-at-harbour-town/): Restaurant at the Harbour Town marina and golf estate. Offers: Restaurant. Address: Harbour Town, Ring Road, Vaal Marina, 1945.
+- [The Waffle House](https://sbshannes.github.io/visit-vaal-marina/business/the-waffle-house/): Waffle house on Anchovy Road. Offers: Coffee and cake. Address: 92 Anchovy Road, Vaal Marina, 1945.
+
+### Food, drinks and supplies
+
+- [PepperMill Deli](https://sbshannes.github.io/visit-vaal-marina/business/peppermill-deli/): Deli with fresh meats, cheeses, breads, pies and homemade products, plus breakfast and lunch. Offers: Deli or bakery, Restaurant, Coffee and cake. Address: Corner of Anchovy Road and Bass Street, Vaal Marina, 1945. Hours: Monday to Saturday 09:00 to 14:00, Sunday 09:00 to 12:00.
+
+### Things to do
+
+- [Pennant Nine Yacht Club](https://sbshannes.github.io/visit-vaal-marina/business/pennant-nine-yacht-club/): Yacht club with keelboat sailing, a junior section and moorings for visiting boats. Offers: Sailing and yacht clubs, Boat launching, Moorings and boat storage, Camping and caravans. Address: 126 Sailfish Street, Vaal Marina, 1945. Phone: 082 746 2136.
+
+### Property
+
+- [Harbour Town](https://sbshannes.github.io/visit-vaal-marina/business/harbour-town/): Gated marina and golf estate on the Gauteng side of the Vaal Dam. Offers: Golf. Address: Ring Road, Vaal Marina, 1945. Phone: 083 251 3269.
+- [Harcourts Vaaldam](https://sbshannes.github.io/visit-vaal-marina/business/harcourts-vaaldam/): Estate agency with homes and land for sale in Vaal Marina. Offers: Estate agent. Address: 69 Anchovy Street, Vaal Marina, 1945.
+
+### Hardware and home
+
+- [Hardware @ Vaal Marina](https://sbshannes.github.io/visit-vaal-marina/business/hardware-vaal-marina/): The local hardware shop on Anchovy Road. Offers: Hardware and building supplies. Address: Anchovy Road, Vaal Marina.
+
+## More detail
+
+- [Full text of this site for AI assistants](https://sbshannes.github.io/visit-vaal-marina/llms-full.txt)

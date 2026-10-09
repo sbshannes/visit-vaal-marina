@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sbshannes.github.io/visit-vaal-marina/sitemap.xml

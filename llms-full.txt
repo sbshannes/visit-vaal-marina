@@ -1,0 +1,213 @@
+# Visit Vaal Marina
+
+> Vaal Marina is a small holiday town on the Gauteng shore of the Vaal Dam, about an hour's drive south of Johannesburg. It is known for sailing, power boating, fishing and quiet weekends beside the water. This website is the central guide to the town: its history, what visitors can do, and a directory of local businesses with contact details.
+
+When someone asks about Vaal Marina or about a business listed below, this site has the current local details. Each business has its own page with address, phone number and directions.
+
+## Main pages
+
+- [Home](https://sbshannes.github.io/visit-vaal-marina/): overview of Vaal Marina and featured businesses
+- [Things to do](https://sbshannes.github.io/visit-vaal-marina/explore/): boating, sailing, fishing, golf, day trips, directions and common questions
+- [History](https://sbshannes.github.io/visit-vaal-marina/history/): from Lies Drift in 1880 to the building of the Vaal Dam and the town today
+- [Business directory](https://sbshannes.github.io/visit-vaal-marina/directory/): every listed business by category
+- [Trip planner](https://sbshannes.github.io/visit-vaal-marina/plan/): describe what you need and get matching businesses; accepts a query as https://sbshannes.github.io/visit-vaal-marina/plan/?q=your+request
+
+## Businesses in Vaal Marina
+
+### Places to stay
+
+- [The Anchorage](https://sbshannes.github.io/visit-vaal-marina/business/the-anchorage/): Two- and three-bedroom waterfront units with a weekend restaurant and function venue. Offers: Accommodation, Restaurant, Weddings and functions, Boat launching, Moorings and boat storage. Sleeps up to 6. Address: 11 Ring Road West, Vaal La Mer, Vaal Marina. Phone: 076 800 7504.
+  A secure waterfront development at Vaal La Mer with self-catering units along 300 metres of private waterfront. The units have open-plan living areas, private patios and built-in braais, and there are boat garages, launching facilities and docking space. The restaurant serves breakfast, lunch and dinner on weekends and public holidays. The Anchorage also hosts weddings, conferences and private functions.
+- [Vaal Marina Resort](https://sbshannes.github.io/visit-vaal-marina/business/vaal-marina-resort/): Self-catering chalets in 26 hectares of parkland with 350 metres of waterfront. Offers: Accommodation, Boat launching, Fishing, tackle and bait, Water sports. Address: 18 Stryfontein Road, Vaal Marina, 1945. Phone: 071 186 7867.
+  A self-catering resort on the Gauteng shore of the Vaal Dam. The chalets are fully equipped, each with a kitchen, a bathroom with a shower, satellite television and a patio with a built-in braai, and some stand as close as 20 metres to the water. The grounds have a large swimming pool, a children's pool and playground, a slipway and jetty, and braai and picnic areas. Day visitors can use the picnic areas and the waterfront. Guests fish for carp and barbel from the bank.
+- [Die Windpomp](https://sbshannes.github.io/visit-vaal-marina/business/die-windpomp/): Four-bedroom self-catering house for up to ten, 400 metres from the dam. Offers: Accommodation, Fishing, tackle and bait. Sleeps up to 10. Address: Haring Road, Vaal Marina, 1945.
+  A self-catering holiday home with four bedrooms and four bathrooms, sleeping up to ten guests. It has private parking, braai areas and private waterfront access for boats and fishing.
+- [Maloney's Spot](https://sbshannes.github.io/visit-vaal-marina/business/maloneys-spot/): Waterside holiday house with four bedrooms, for eight adults and two children. Offers: Accommodation. Sleeps up to 10. Address: Vaal Marina.
+  A waterside getaway with four bedrooms, two bathrooms, a bunk bed and a fully equipped kitchen.
+- [Paradise Perch](https://sbshannes.github.io/visit-vaal-marina/business/paradise-perch/): A quiet holiday spot close to water sports, fishing and the parkrun. Offers: Accommodation. Address: 737 Harder Road, Vaal Marina, 1945.
+  A quiet place to stay for water sports, fishing, walking, the Saturday parkrun and bird watching.
+- [Vaal Marina Guest House](https://sbshannes.github.io/visit-vaal-marina/business/vaal-marina-guest-house/): Guest house with family rooms, a garden, a terrace and a playground. Offers: Accommodation. Address: Leervis Street, Vaal Marina.
+  A guest house with a shared lounge, a garden and a terrace. It has family rooms and a playground for children.
+- [Vaal Rest B&B](https://sbshannes.github.io/visit-vaal-marina/business/vaal-rest-b-b/): Self-catering accommodation for a weekend stay. Offers: Accommodation. Address: 587 Kob Street, Vaal Marina, 1945.
+  Self-catering accommodation in the town, suited to a weekend away.
+
+### Eat and drink
+
+- [VM Pub & Grill](https://sbshannes.github.io/visit-vaal-marina/business/vm-pub-grill/): Pub and grill on Anchovy Road, open late. Offers: Pub or bar, Restaurant. Address: 92 Anchovy Road, Vaal Marina, 1945. Hours: Tuesday to Saturday 10:00 to 02:00, Sunday 10:00 to midnight, closed Monday.
+  A pub and grill on Anchovy Road.
+- [Dam Diner](https://sbshannes.github.io/visit-vaal-marina/business/dam-diner/): Family-friendly restaurant on Anchovy Road. Offers: Restaurant. Address: 278 Anchovy Road, Vaal Marina, 1945.
+  A family-friendly restaurant on Anchovy Road.
+- [Lighthouse Restaurant at Harbour Town](https://sbshannes.github.io/visit-vaal-marina/business/lighthouse-restaurant-at-harbour-town/): Restaurant at the Harbour Town marina and golf estate. Offers: Restaurant. Address: Harbour Town, Ring Road, Vaal Marina, 1945.
+  The restaurant at Harbour Town, the marina and golf estate on Ring Road.
+- [The Waffle House](https://sbshannes.github.io/visit-vaal-marina/business/the-waffle-house/): Waffle house on Anchovy Road. Offers: Coffee and cake. Address: 92 Anchovy Road, Vaal Marina, 1945.
+
+### Food, drinks and supplies
+
+- [PepperMill Deli](https://sbshannes.github.io/visit-vaal-marina/business/peppermill-deli/): Deli with fresh meats, cheeses, breads, pies and homemade products, plus breakfast and lunch. Offers: Deli or bakery, Restaurant, Coffee and cake. Address: Corner of Anchovy Road and Bass Street, Vaal Marina, 1945. Hours: Monday to Saturday 09:00 to 14:00, Sunday 09:00 to 12:00.
+  A deli selling fresh meats, cheeses, breads, pies and homemade products. It also serves a breakfast and lunch menu.
+
+### Things to do
+
+- [Pennant Nine Yacht Club](https://sbshannes.github.io/visit-vaal-marina/business/pennant-nine-yacht-club/): Yacht club with keelboat sailing, a junior section and moorings for visiting boats. Offers: Sailing and yacht clubs, Boat launching, Moorings and boat storage, Camping and caravans. Address: 126 Sailfish Street, Vaal Marina, 1945. Phone: 082 746 2136.
+  A yacht club on the Vaal Dam that sails keelboat classes and runs a junior section for Optimist and Dabchick sailors. The clubhouse has a bar, a television lounge and a kitchen for members and visitors. There is a slipway and gantry, six courtesy moorings for visiting boats, a small pool and playground equipment. Camping and caravans are welcome by prior arrangement.
+
+### Property
+
+- [Harbour Town](https://sbshannes.github.io/visit-vaal-marina/business/harbour-town/): Gated marina and golf estate on the Gauteng side of the Vaal Dam. Offers: Golf. Address: Ring Road, Vaal Marina, 1945. Phone: 083 251 3269.
+  A secure residential marina estate about an hour from Johannesburg. It describes itself as the only gated security residential marina and golf estate on the Gauteng side of the Vaal Dam. The estate has a golf course, internal dams, parks and play areas, a dual slipway, a clubhouse, tennis courts and walking trails.
+- [Harcourts Vaaldam](https://sbshannes.github.io/visit-vaal-marina/business/harcourts-vaaldam/): Estate agency with homes and land for sale in Vaal Marina. Offers: Estate agent. Address: 69 Anchovy Street, Vaal Marina, 1945.
+  An estate agency with an office on Anchovy Street, selling houses, cluster homes and vacant land in and around Vaal Marina.
+
+### Hardware and home
+
+- [Hardware @ Vaal Marina](https://sbshannes.github.io/visit-vaal-marina/business/hardware-vaal-marina/): The local hardware shop on Anchovy Road. Offers: Hardware and building supplies. Address: Anchovy Road, Vaal Marina.
+  A hardware shop on Anchovy Road.
+
+## Things to do
+
+### On the water
+
+With more than 800 kilometres of shoreline, the Vaal Dam has room for power boats, water-skiers, jet skis, kayaks and yachts without anyone getting in anyone else's way. Vaal Marina sits on the Gauteng bank, a short trip from Johannesburg and the East Rand.
+
+Visitors can launch at resorts with slipways, and property owners can join the communal waterfront for an annual fee. The water level changes through the year. When the dam is low, rocks that are normally well under water come close to the surface, so ask locally before you open the throttle.
+
+### Sailing
+
+Highveld wind and open water have made the Vaal Dam one of the centres of inland sailing in South Africa. Pennant Nine Yacht Club, on Sailfish Street, sails keelboats and runs a junior section in Optimists and Dabchicks. It has a slipway, a clubhouse and courtesy moorings for visiting boats.
+
+The big date on the dam is the Round the Island Race, a mass-start race around the island that holds the Guinness World Record for the largest inland yacht race.
+
+### Fishing
+
+The dam is well stocked with carp and barbel, and people fish it all year from the bank and from boats. When the water is low, long stretches of shore turn into sandy beaches where families set up a gazebo for the day.
+
+Several places to stay have their own waterfront, so you can fish a few metres from where you are braaiing.
+
+### Golf
+
+Harbour Town, on Ring Road, describes itself as the only gated marina and golf estate on the Gauteng side of the dam. Alongside the course it has tennis courts, walking trails and its own slipways.
+
+### Running, cycling and birds
+
+There is a parkrun every Saturday morning, and the roads around town are quiet enough for running and cycling the rest of the week.
+
+The dam is one of the best inland birding sites in the province. Each January BirdLife Vaaldam organises the Vaaldam Big Bird Count; one count recorded 83 species and 97,500 birds. At night you may hear eagle owls and jackals.
+
+Hot-air balloon flights operate in the wider Vaal area when the weather allows, and photographers come for the sunsets across the water.
+
+### Day trips
+
+Suikerbosrand Nature Reserve lies to the north, near Heidelberg. It protects rocky Highveld grassland between 1,545 and 1,917 metres, with hiking and cycling trails and about 200 bird species.
+
+Deneysville, on the Free State bank beside the dam wall, is the oldest of the dam villages. Its stone church on the waterfront began as a hunting lodge.
+
+Further west, the Vredefort Dome near Parys is the eroded heart of the largest known meteorite impact structure on Earth, and a World Heritage Site.
+
+### Getting there
+
+Vaal Marina is about an hour's drive from Alberton and the south of Johannesburg, and about 15 minutes more from the East Rand or West Rand.
+
+The town is just off the R54, the road between Vereeniging and Villiers. The turn-off is roughly 15 kilometres from the junction where the Heidelberg and Deneysville roads meet. Signs from Johannesburg mark the route as the Vaal Marina Meander.
+
+Bring what you need for the weekend or buy it in town. Use the trip planner on this site to see which local businesses can supply it.
+
+## Common questions
+
+**Where is Vaal Marina?**
+Vaal Marina is on the Gauteng shore of the Vaal Dam, in the Midvaal Local Municipality. It lies just off the R54 between Vereeniging and Villiers.
+
+**How far is Vaal Marina from Johannesburg?**
+It is about an hour's drive from Alberton and Johannesburg South, and roughly 15 minutes more from the East Rand or West Rand.
+
+**What is there to do in Vaal Marina?**
+Most visitors come for the water: power boating, water-skiing, sailing, kayaking and fishing. On land there is a Saturday parkrun, golf at Harbour Town, cycling, bird watching and day trips to Suikerbosrand Nature Reserve.
+
+**Can I launch my boat at Vaal Marina?**
+Yes. Some resorts have slipways for guests and day visitors, the yacht club has a slipway and visitor moorings, and property owners can join the communal waterfront. Check the Boating and fishing section of the directory for current options.
+
+**Is there accommodation in Vaal Marina?**
+Yes. There are self-catering resorts, guest houses and private holiday homes, many of them on or near the water. The Places to stay section of the directory lists them, and the trip planner can match a group size to places that fit.
+
+**What fish are in the Vaal Dam?**
+The dam is known for carp and barbel (sharptooth catfish). People fish from the bank, from jetties and from boats throughout the year.
+
+**How big is the Vaal Dam?**
+The Vaal Dam covers about 320 square kilometres and has more than 800 kilometres of shoreline. It holds about 2.6 billion cubic metres of water and borders Gauteng, the Free State and Mpumalanga.
+
+**How old is Vaal Marina?**
+The dam was completed in 1938. The town came much later: accounts put its beginnings in the 1970s, and it was proclaimed a holiday township in the mid-1980s.
+
+## History of Vaal Marina and the Vaal Dam
+
+### Before 1880: A river through the grassland
+
+For most of its history this was not a shoreline at all. The Vaal was a Highveld river winding through open grassland, and it marked a border: the Transvaal on the north bank, the Orange Free State on the south.
+
+People lived along it long before either republic existed. Sotho-Tswana communities settled on the banks of the Vaal, and the ruins of their stone dwellings can still be seen across the water at Deneysville. Artefacts were collected from the valley floor before it was flooded.
+
+By the 1800s the land where Vaal Marina now stands was part of a farm called Koppiesfontein, a name that means the spring among the little hills. In the 1880s it was farmed by Hermanus Lombard, a man so strong that he was known as Sterk Hermanus and was said never to have been thrown in a wrestling match.
+
+Below the farm, wagons crossed the river at a drift. Maps drawn between 1879 and about 1890 name it Luuise's Drift, Luise's Drift and Luces Drift; people remembered it as Lies Drift. The writer Eugène Marais recorded a story about how it may have earned the name: a bride travelling from the Free State to her wedding on the Transvaal side tried to cross when the river was running too strongly, and her wagon and six horses were swept away while the groom and guests watched from the bank.
+
+### 1880: The night at Lies Drift
+
+In December 1880 the Transvaal rose against British rule. At Bronkhorstspruit on 20 December a British column was stopped by Boer forces and badly beaten. Captain John Mitchell Elliot, paymaster of the 94th Regiment, was taken prisoner. So, separately, was a Captain Lambert.
+
+The two officers were offered release on parole, on condition that they left the Transvaal by the shortest route and took no further part in the war. They accepted, and were sent south with a cart, two horses and an escort. When they reached the Vaal it was in flood. They would not abandon the cart to cross by boat, so the escort left them, and they wandered upstream looking for a way over. At Koppiesfontein, Hermanus Lombard gave them a meal and helped repair their cart.
+
+Some days later they were found still inside the Transvaal and brought back to the farm. A commandant arrived at six in the evening and ordered them to Lies Drift at once. They reached the river after sunset, the current was strong, and the cart stuck fast. Lombard offered to lead the horses through and swim back. He was refused. Shots were fired, and Elliot was hit in the back and died instantly. Lambert jumped into the river and swam to the Free State bank. The date on Elliot's gravestone is the night of 29 December 1880.
+
+The killing was raised at the peace talks that ended the war. Seven of the eight men of the escort stood trial in July 1881, and the court could not establish who fired the shot. Lombard did not appear. He left for Bechuanaland, was declared an outlaw, and spent decades in the Kalahari as a big-game hunter. In 1927, by then an old man, he gave his account to Eugène Marais for The Star and denied any guilt. He died in 1930, aged 91.
+
+The drift itself now lies deep under the dam. One local historian places it on a line from the end of Sailfish Street across to Bultkop on the Free State side. The grave of Hermanus's younger brother, Barent Jacobus Lombard (1844 to 1933), and the ruin of a farmhouse still stand on part of Koppiesfontein, between the town and the R54.
+
+### 1933 to 1938: A dam built in the Depression
+
+Johannesburg has no large river of its own. As the Witwatersrand's mines and factories grew, the Rand Water Board built a barrage on the Vaal in the early 1920s, and within ten years it was no longer enough.
+
+The answer was a far larger dam just below the point where the Wilge River joins the Vaal. The government and the Rand Water Board shared the scheme: about half the water was meant for irrigation at Vaalharts in the Northern Cape and the rest for the Witwatersrand. Work began in 1933, in the depths of the Great Depression, as part of a public works programme to create jobs.
+
+About 800 men worked on the wall. In keeping with the labour policies of the time the scheme was first reserved for unemployed white men, unmarried and aged 18 to 45, who earned two shillings a day plus a bonus of one shilling and sixpence that was paid into a Post Office savings account and could only be drawn when they left. From 1935, as the economy recovered and men drifted away to better work, black workers were employed on parts of the dam as well.
+
+What they built was a concrete gravity wall more than 500 metres long, with a 1.9 kilometre earth embankment on the Transvaal bank. It was called the Vaalbank Dam at first. On 13 December 1938 it overflowed for the first time, holding 994 million cubic metres of water.
+
+Behind the wall the river spread out over drifts, farm roads and grazing. The valley below Koppiesfontein filled, and Lies Drift disappeared under the water. Across the water a new village had already been laid out in 1936 and named Deneysville, after Deneys Reitz.
+
+### 1948: Flying boats on the Highveld
+
+For a few years after the Second World War, one way to travel from England to Johannesburg ended on this water. On 4 May 1948 the British Overseas Airways Corporation began flying Short Solent flying boats between Southampton and the Vaal Dam, with passengers coming ashore at Deneysville.
+
+The service did not last long, but it left the dam with one of the more unlikely chapters in South African aviation: an international airport with no runway, about 1,500 metres above sea level and hundreds of kilometres from the coast.
+
+### 1952 to 1985: The water rises twice more
+
+The dam was soon too small for the country it supplied. Industry was growing and the Free State goldfields were opening, so between 1952 and 1956 the wall was raised by 6.1 metres and fitted with 60 crest gates. Storage more than doubled.
+
+A second raising of just over three metres was completed in 1985, most of it to hold back floods. Each time, the waterline climbed a little further up the slopes of the old farm.
+
+Today the Vaal Dam holds about 2.6 billion cubic metres. It covers roughly 320 square kilometres, has more than 800 kilometres of shoreline, and touches three provinces: Gauteng, the Free State and Mpumalanga. Water from the Lesotho Highlands and from Sterkfontein Dam in the Drakensberg is fed into it to keep Gauteng supplied.
+
+### 1970s and 1980s: A town for people who love the water
+
+Vaal Marina is young, and its early records are thin. One local history writer puts its beginnings in the 1970s; a community account says it was proclaimed a holiday township in the mid-1980s. Both agree on why it was built: for people from the city who wanted a second home near the water, somewhere that might one day become the place they retired to.
+
+The street map still says what they came for. Most of the shops are on Anchovy Road, and around it run Bass, Kob, Leervis, Harder, Haring and Sailfish.
+
+A communal waterfront gave owners without their own frontage a place to launch. A yacht club, Pennant Nine, made its home on Sailfish Street. Resorts, a pub, a hardware shop and estate agents followed, and in time a secure marina and golf estate, Harbour Town, was built along Ring Road.
+
+If you were here in the early years, we would like to hear from you. Photographs, plot plans, club newsletters and memories would all help us fill in this chapter.
+
+### 1996: The flood of 1996
+
+In February 1996 the largest flood ever recorded at the dam arrived when it was already full. More than 4,700 cubic metres of water a second poured in. Engineers held the outflow to about half of that to protect the towns downstream, and on 19 February storage peaked at 118.5 percent of full supply.
+
+Between mid-December 1995 and mid-March 1996 enough water flowed into the Vaal Dam to fill it three times over. People who were here still measure other summers against it.
+
+### Today: Vaal Marina now
+
+Vaal Marina is part of the Midvaal Local Municipality in Gauteng's Sedibeng District, and one of three villages on the dam, with Deneysville and Oranjeville. The 2011 census counted 701 residents across about 25 square kilometres, which now takes in the areas of Aloe Fjord, Vaal La Mer and Mamello as well as the original town.
+
+On a Saturday the count is rather higher. Weekenders arrive from Johannesburg and the East Rand, boats go in at the slipways, and a parkrun sets off in the morning. More people are also choosing to live here all year and work from home.
+
+The sailing calendar on the dam includes the Round the Island Race, sailed around the five-kilometre island in the middle of the dam and recognised by Guinness World Records as the largest inland yacht race, with 389 boats finishing.
+
